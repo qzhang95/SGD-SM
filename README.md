@@ -9,7 +9,9 @@ However, the acquired daily soil moisture productions are incomplete in global l
 
 Original/reconstructed AMSR2 global daily 0.25° soil moisture time-series productions in 2019.6.1 to 6.30:
 
-<img src="./figures/ori.gif" align=left width="256px"/><img src="./figures/rec.gif" align=right width="256px"/>
+<img src="./figures/ori.gif" align=left width="320px"/><img src="./figures/rec.gif" align=right width="320px"/>
+<br/>
+
 
 # Dataset Download
 
