@@ -7,7 +7,7 @@ However, the acquired daily soil moisture productions are incomplete in global l
  we develop a novel 3-D spatio-temporal partial convolutional neural network for Advanced Microwave Scanning Radiometer 2 (AMSR2) soil moisture productions gap-filling. 
  Through the proposed framework, we generate the [**seamless global daily AMSR2 soil moisture long-term productions from 2013 to 2019**](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/).
 
-<div align=center>!<img src="./figures/ori.gif" align=center width="360px"/><img src="./figures/rec.gif" align=center width="360px"/>
+<div align=center><img src="./figures/ori.gif" align=center width="360px"/><img src="./figures/rec.gif" align=center width="360px"/>
 
 <div align=center>Original/reconstructed AMSR2 global daily 0.25° soil moisture time-series productions in 2019.6.1 to 6.30
 
