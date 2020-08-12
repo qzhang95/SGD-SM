@@ -15,11 +15,11 @@ However, the acquired daily soil moisture productions are incomplete in global l
 
 # Dataset Download
 
-**Link 1**: [Baidu Yun](https://pan.baidu.com/s/1SGdKmfgUgUBmcWse-cDsWg) (Extracting Code: fu8f)
+* **Link 1**: [Baidu Yun](https://pan.baidu.com/s/1SGdKmfgUgUBmcWse-cDsWg) (Extracting Code: fu8f)
 
-**Link 2**: [Google Drive](https://drive.google.com/file/d/1pGoX12Va3k6o9ybIMBjpDDHLbcUShM1P/view?usp=sharing)
+* **Link 2**: [Google Drive](https://drive.google.com/file/d/1pGoX12Va3k6o9ybIMBjpDDHLbcUShM1P/view?usp=sharing)
 
-**Link 3**: [Zenodo](http://doi.org/10.5281/zenodo.3960425)
+* **Link 3**: [Zenodo](http://doi.org/10.5281/zenodo.3960425)
 
 
 # Environments and Dependencies
