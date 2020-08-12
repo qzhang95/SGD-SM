@@ -51,19 +51,19 @@ User can read the original data, reconstructed data, and mask data as follows (m
 # Validation Results
 To further validate the effectiveness of these productions, three verification ways are employed as follow:
 
-* 1) In-situ validation;
+* In-situ validation
 
-* 2) Time-series validation;
+* Time-series validation
 
-* 3) Simulated missing regions validation.
+* Simulated missing regions validation
 
-The validation results of the reconstructed soil moisture dataset can be viewed in this [website](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/)
+The validation results of the reconstructed soil moisture dataset can be viewed in this [website](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/).
 
 # Data Visualization
 Users can visualize \*.nc format file through [Panoply](https://www.giss.nasa.gov/tools/panoply/download/) software. Before visualizing, you must install [Java SE Development Kit](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
 
 
-# Others
+# Contact Information
 If you have any query for this work, please directly contact me.
 
 Author: Qiang Zhang, Wuhan Unviversity.
