@@ -17,7 +17,6 @@ Original/reconstructed AMSR2 global daily 0.25° soil moisture time-series produ
 
 # Dataset Download Links
 
-**Link 1**: [Baidu Yun](https://pan.baidu.com/s/1SGdKmfgUgUBmcWse-cDsWg) (Extracting Code: fu8f)
 
 **Link 2**: [Google Drive](https://drive.google.com/file/d/1pGoX12Va3k6o9ybIMBjpDDHLbcUShM1P/view?usp=sharing)
 
