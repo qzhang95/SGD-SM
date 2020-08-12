@@ -8,9 +8,8 @@ However, the acquired daily soil moisture productions are incomplete in global l
  Through the proposed framework, we generate the [**seamless global daily AMSR2 soil moisture long-term productions from 2013 to 2019**](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/).
 
 Original/reconstructed AMSR2 global daily 0.25° soil moisture time-series productions in 2019.6.1 to 6.30:
-
 <img src="./figures/ori.gif" align=left width="320px"/><img src="./figures/rec.gif" align=right width="320px"/>
-<br/>
+
 
 
 # Dataset Download
