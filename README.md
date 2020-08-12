@@ -30,7 +30,7 @@ However, the acquired daily soil moisture productions are incomplete in global l
 
 
 # Toolkit Installation
-This soil moisture dataset is comprised of NetCDF (.nc) files. Therefore, users need to install netCDF4 toolkit before reading the data:
+This soil moisture dataset is comprised of NetCDF (\*.nc) files. Therefore, users need to install netCDF4 toolkit before reading the data:
 ```
     pip install netCDF4
     pip install numpy
@@ -48,6 +48,27 @@ User can read the original data, reconstructed data, and mask data as follows (m
     Mask_ori = np.ma.getmask(Ori)
 ```
 
+# Validation Results
+To further validate the effectiveness of these productions, three verification ways are employed as follow:
+
+* 1) In-situ validation;
+
+* 2) Time-series validation;
+
+* 3) Simulated missing regions validation.
+
+The validation results of the reconstructed soil moisture dataset can be viewed in this [website](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/)
+
 # Data Visualization
-Users can visualize NC format file through [Panoply](https://www.giss.nasa.gov/tools/panoply/download/) software. Before visualizing, you must install [Java SE Development Kit](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
+Users can visualize \*.nc format file through [Panoply](https://www.giss.nasa.gov/tools/panoply/download/) software. Before visualizing, you must install [Java SE Development Kit](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
+
+
+# Others
+If you have any query for this work, please directly contact me.
+
+Author: Qiang Zhang, Wuhan Unviversity.
+
+E-mail: whuqzhang@gmail.com
+
+Homepage: [qzhang95.github.io](https://qzhang95.github.io/)
 
