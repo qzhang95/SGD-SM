@@ -2,7 +2,7 @@
 # Generating Seamless Global Daily AMSR2 Soil Moisture Long-term Productions (2013-2019)
 
 High quality and long-term soil moisture productions are significant for hydrologic monitoring and agricultural management. 
-However, the acquired daily soil moisture productions are incomplete in global land (**just about 30%~80% coverage ratio**),
+However, the acquired daily soil moisture productions are incomplete in global land **(<font color='red'>just about 30%~80% coverage ratio</font>)**,
  due to the satellite orbit coverage and the limitations of soil moisture retrieving algorithms. To solve this inevitable problem, 
  we develop a novel 3-D spatio-temporal partial convolutional neural network for Advanced Microwave Scanning Radiometer 2 (AMSR2) soil moisture productions gap-filling. 
  Through the proposed framework, we generate the [**seamless global daily AMSR2 soil moisture long-term productions from 2013 to 2019**](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/).
@@ -30,7 +30,7 @@ However, the acquired daily soil moisture productions are incomplete in global l
 
 
 # Toolkit Installation
-This soil moisture dataset is comprised of NetCDF (\*.nc) files. Therefore, users need to install netCDF4 toolkit before reading the data:
+This soil moisture dataset is comprised of netCDF4 (\*.nc) files. Therefore, users need to install netCDF4 toolkit before reading the data:
 ```
     pip install netCDF4
     pip install numpy
@@ -57,7 +57,7 @@ To further validate the effectiveness of these productions, three verification w
 
 * Simulated missing regions validation
 
-The validation results of the reconstructed soil moisture dataset can be viewed in this [website](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/).
+The validation results of the reconstructed soil moisture dataset can be viewed in this [<font color='red'>website</font>](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/).
 
 # Data Visualization
 Users can visualize \*.nc format file through [Panoply](https://www.giss.nasa.gov/tools/panoply/download/) software. Before visualizing, you must install [Java SE Development Kit](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
