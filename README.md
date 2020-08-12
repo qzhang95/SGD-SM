@@ -10,13 +10,13 @@ However, the acquired daily soil moisture productions are incomplete in global l
 Original/reconstructed AMSR2 global daily 0.25° soil moisture time-series productions in 2019.6.1 to 6.30:
 
 <br/>
-<img src="./figures/ori.gif" align=left width="480px"/>
-<img src="./figures/rec.gif" align=right width="480px/>
-
+<img src="./figures/ori.gif" align=left width="480px">
+<img src="./figures/rec.gif" align=right width="480px>
+<br/>
 
 
 # Dataset Download Links
-<br/>
+
 **Link 1**: [Baidu Yun](https://pan.baidu.com/s/1SGdKmfgUgUBmcWse-cDsWg) (Extracting Code: fu8f)
 
 **Link 2**: [Google Drive](https://drive.google.com/file/d/1pGoX12Va3k6o9ybIMBjpDDHLbcUShM1P/view?usp=sharing)
@@ -51,5 +51,5 @@ User can read the original data, reconstructed data, and mask data as follows (m
 ```
 
 # Data visualization
-Users can visualize nc format file through [Panoply](https://www.giss.nasa.gov/tools/panoply/download/) software. Before visualizing, you must install [Java SE Development Kit](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
+Users can visualize NC format file through [Panoply](https://www.giss.nasa.gov/tools/panoply/download/) software. Before visualizing, you must install [Java SE Development Kit](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
 
