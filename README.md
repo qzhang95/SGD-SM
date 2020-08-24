@@ -2,8 +2,6 @@
 
 <div align=center><img src="./figures/ori.gif" align=center width="360px"/><img src="./figures/rec.gif" align=center width="360px"/></div>
 
-<div align=center>Original/reconstructed AMSR2 global daily 0.25° soil moisture time-series productions in 2019.6.1 to 6.30</div>
-
 
 
 # Dataset Download
