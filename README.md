@@ -13,7 +13,7 @@
 
 * **Link 2**: [Google Drive](https://drive.google.com/file/d/1pGoX12Va3k6o9ybIMBjpDDHLbcUShM1P/view?usp=sharing)
 
-* **Link 3**: [Zenodo](http://doi.org/10.5281/zenodo.3960425)
+* **Link 3**: [Zenodo](http://doi.org/10.5281/zenodo.4417458)
 
 
 # Environments and Dependencies
@@ -41,6 +41,12 @@ User can read the original data, reconstructed data, and mask data as follows (m
     Rec = Rec_data[0:720, 0:1440]
     Mask_ori = np.ma.getmask(Ori)
 ```
+
+# Code Running
+```
+    run Main_Test_SGD-SM.py
+```
+
 
 
 # Data Visualization
