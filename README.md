@@ -42,11 +42,6 @@ User can read the original data, reconstructed data, and mask data as follows (m
     Mask_ori = np.ma.getmask(Ori)
 ```
 
-# Code Running
-```
-    run Main_Test_SGD-SM.py
-```
-
 
 
 # Data Visualization
