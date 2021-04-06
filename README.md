@@ -5,7 +5,8 @@
 
 <div align=center><img src="./figures/ori.gif" align=center width="360px"/><img src="./figures/rec.gif" align=center width="360px"/></div>
 
-
+# Reference
+Zhang, Q., Yuan, Q., Li, J., Wang, Y., Sun, F., and Zhang, L.: Generating seamless global daily AMSR2 soil moisture (SGD-SM) long-term products for the years 2013–2019, Earth Syst. Sci. Data, 13, 1385–1401, https://doi.org/10.5194/essd-13-1385-2021, 2021.
 
 # Dataset Download
 
