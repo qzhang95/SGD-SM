@@ -4,7 +4,7 @@
 # AMSR2 soil moisture long-term productions from 2013 to 2019.
 
 # Project website: https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/
-# Power by Qiang Zhang, Wuhan University. (whuqzhang@gmail.com)
+# Power by Qiang Zhang. (whuqzhang@gmail.com)
 
 
 import netCDF4 as nc
