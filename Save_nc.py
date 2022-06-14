@@ -22,7 +22,7 @@ def Save_to_NC(filename, cur_date, data_ori, data_rec):
     latitudes.units = 'degree_north'
     longitudes.units = 'degree_east'
     
-	# data
+    # data
     lats = np.arange(90 - 0.25 / 2, -90, -0.25)  # notice: the last numb is not included
     lons = np.arange(-180 + 0.25 / 2, 180, 0.25)  # notice: the last numb is not included
     latitudes[:] = lats
