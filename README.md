@@ -1,5 +1,5 @@
 # SGD-SM
-* A seamless global daily (SGD) AMSR2 soil moisture long-term (2013-2019) dataset is generated through the proposed model. This daily products include 2553 global soil moisture NetCDF4 files, starting from Jan 01, 2013 to Dec 31, 2019 (about 20GB memory after uncompressing this zip file).
+* A seamless global daily (SGD) AMSR2 soil moisture long-term (2013-2019) dataset is generated through the proposed model. This daily products include 2553 global soil moisture NetCDF4 files, starting from Jan 01, 2013 to Dec 31, 2019 (about 20GB memory after uncompressing the zip file).
 
 * To further validate the effectiveness of these productions, three verification ways are employed as follow: 1) In-situ validation; 2) Time-series validation; And 3) simulated missing regions validation. More validation results can be viewed at [SGD-SM](https://qzhang95.github.io/Projects/Global-Daily-Seamless-AMSR2/).
 
