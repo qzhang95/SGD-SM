@@ -208,8 +208,8 @@ def datagenerator(data_dir='D:/AMSR2/Data/2019'):
 
 
 if __name__ == '__main__':
-    data_dir = 'D:/AMSR2/Data/2019'
-    mask_dir = 'D:/AMSR2/Mask/2019'
+    data_dir = 'D:/AMSR2/Data/2019/'
+    mask_dir = 'D:/AMSR2/Mask/2019/'
     Label = []
     Mask = []
     Data = []
